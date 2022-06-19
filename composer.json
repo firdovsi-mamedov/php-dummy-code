@@ -1,0 +1,16 @@
+{
+    "name": "php/autoloading",
+    "description": "This package is for autoload",
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Firdovsi Mamedov",
+            "email": "firdovsim96@gmail.com"
+        }
+    ],
+    "require": {}
+}
